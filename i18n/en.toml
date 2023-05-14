@@ -8,7 +8,7 @@ other = "TAG"
 other = "RELATED POSTS"
 
 [toc]
-other = "TABLE OF CONTENT"
+other = "TABLE OF CONTENTS"
 
 [about]
 other = "ABOUT"
@@ -20,4 +20,4 @@ other = "PREV"
 other = "NEXT"
 
 [read]
-other = "Reading"
+other = "Read More"

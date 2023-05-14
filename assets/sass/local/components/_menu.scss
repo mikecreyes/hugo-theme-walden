@@ -5,21 +5,24 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    
 
     font-size: 1rem;
 
     .menu-item {
         display: block;
         margin: 0 .5rem;
-        color: $grey-600;
+        color: $white;
         transition: all 1s;
+        font-weight: bolder;
+        
 
         &:hover {
-            color: $primary;
+            color: $secondary;
         }
     }
 
     .active {
-        color: $primary;
+        color: $secondary;
     }
 }
